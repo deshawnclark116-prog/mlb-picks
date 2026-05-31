@@ -1,0 +1,30 @@
+{
+  "updated": "2026-05-31T00:39:32.318404Z",
+  "games": [
+    {
+      "home": "Cincinnati Reds",
+      "away": "Atlanta Braves",
+      "commence": "2026-05-30T23:16:00Z"
+    },
+    {
+      "home": "St. Louis Cardinals",
+      "away": "Chicago Cubs",
+      "commence": "2026-05-30T23:16:00Z"
+    },
+    {
+      "home": "Colorado Rockies",
+      "away": "San Francisco Giants",
+      "commence": "2026-05-31T01:11:00Z"
+    },
+    {
+      "home": "Athletics",
+      "away": "New York Yankees",
+      "commence": "2026-05-31T02:06:00Z"
+    },
+    {
+      "home": "Seattle Mariners",
+      "away": "Arizona Diamondbacks",
+      "commence": "2026-05-31T02:11:00Z"
+    }
+  ]
+}

@@ -1,5 +1,30 @@
 {
-  "updated": "2026-06-30T13:10:30.817131Z",
-  "games": [],
-  "error": "unhashable type: 'slice'"
+  "updated": "2026-07-01T13:35:16.400922Z",
+  "games": [
+    {
+      "home": "Baltimore Orioles",
+      "away": "Chicago White Sox",
+      "commence": "2026-07-01T16:36:00Z"
+    },
+    {
+      "home": "Cleveland Guardians",
+      "away": "Texas Rangers",
+      "commence": "2026-07-01T17:11:00Z"
+    },
+    {
+      "home": "Boston Red Sox",
+      "away": "Washington Nationals",
+      "commence": "2026-07-01T17:36:00Z"
+    },
+    {
+      "home": "New York Yankees",
+      "away": "Detroit Tigers",
+      "commence": "2026-07-01T17:36:00Z"
+    },
+    {
+      "home": "Chicago Cubs",
+      "away": "San Diego Padres",
+      "commence": "2026-07-01T18:21:00Z"
+    }
+  ]
 }

@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-08T11:33:09.496543Z",
+  "updated": "2026-08-09T11:33:39.641827Z",
   "games": [
     {
-      "home": "New York Yankees",
-      "away": "Atlanta Braves",
-      "commence": "2026-08-08T19:05:00Z"
+      "home": "Washington Nationals",
+      "away": "Cincinnati Reds",
+      "commence": "2026-08-09T16:16:00Z"
     },
     {
       "home": "Boston Red Sox",
       "away": "Athletics",
-      "commence": "2026-08-08T20:11:00Z"
+      "commence": "2026-08-09T17:35:00Z"
     },
     {
-      "home": "Miami Marlins",
-      "away": "Los Angeles Angels",
-      "commence": "2026-08-08T20:11:00Z"
-    },
-    {
-      "home": "Philadelphia Phillies",
-      "away": "Toronto Blue Jays",
-      "commence": "2026-08-08T22:06:00Z"
+      "home": "New York Yankees",
+      "away": "Atlanta Braves",
+      "commence": "2026-08-09T17:35:00Z"
     },
     {
       "home": "Pittsburgh Pirates",
       "away": "New York Mets",
-      "commence": "2026-08-08T22:41:00Z"
+      "commence": "2026-08-09T17:35:00Z"
+    },
+    {
+      "home": "Philadelphia Phillies",
+      "away": "Toronto Blue Jays",
+      "commence": "2026-08-09T17:36:00Z"
     }
   ]
 }

@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-18T14:52:38.129876Z",
+  "updated": "2026-09-19T14:14:24.122824Z",
   "games": [
     {
-      "home": "Cincinnati Reds",
-      "away": "Chicago Cubs",
-      "commence": "2026-09-18T22:41:00Z"
-    },
-    {
-      "home": "Pittsburgh Pirates",
-      "away": "Kansas City Royals",
-      "commence": "2026-09-18T22:41:00Z"
+      "home": "Chicago White Sox",
+      "away": "Detroit Tigers",
+      "commence": "2026-09-19T18:11:00Z"
     },
     {
       "home": "Baltimore Orioles",
       "away": "Milwaukee Brewers",
-      "commence": "2026-09-18T23:06:00Z"
-    },
-    {
-      "home": "Cleveland Guardians",
-      "away": "Athletics",
-      "commence": "2026-09-18T23:11:00Z"
+      "commence": "2026-09-19T20:06:00Z"
     },
     {
       "home": "Tampa Bay Rays",
       "away": "Boston Red Sox",
-      "commence": "2026-09-18T23:11:00Z"
+      "commence": "2026-09-19T20:11:00Z"
+    },
+    {
+      "home": "New York Mets",
+      "away": "Philadelphia Phillies",
+      "commence": "2026-09-19T20:11:00Z"
+    },
+    {
+      "home": "Cleveland Guardians",
+      "away": "Athletics",
+      "commence": "2026-09-19T22:11:00Z"
     }
   ]
 }

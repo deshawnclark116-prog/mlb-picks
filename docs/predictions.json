@@ -1,30 +1,5 @@
 {
-  "updated": "2026-09-19T14:14:24.122824Z",
-  "games": [
-    {
-      "home": "Chicago White Sox",
-      "away": "Detroit Tigers",
-      "commence": "2026-09-19T18:11:00Z"
-    },
-    {
-      "home": "Baltimore Orioles",
-      "away": "Milwaukee Brewers",
-      "commence": "2026-09-19T20:06:00Z"
-    },
-    {
-      "home": "Tampa Bay Rays",
-      "away": "Boston Red Sox",
-      "commence": "2026-09-19T20:11:00Z"
-    },
-    {
-      "home": "New York Mets",
-      "away": "Philadelphia Phillies",
-      "commence": "2026-09-19T20:11:00Z"
-    },
-    {
-      "home": "Cleveland Guardians",
-      "away": "Athletics",
-      "commence": "2026-09-19T22:11:00Z"
-    }
-  ]
+  "updated": "2026-09-20T14:37:22.810837Z",
+  "games": [],
+  "error": "unhashable type: 'slice'"
 }

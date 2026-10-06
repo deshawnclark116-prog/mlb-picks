@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-04T15:42:35.099980Z",
+  "updated": "2026-10-06T17:05:36.325977Z",
   "games": [
     {
-      "home": "Milwaukee Brewers",
-      "away": "San Diego Padres",
-      "commence": "2026-10-04T20:00:00Z"
+      "home": "Atlanta Braves",
+      "away": "Los Angeles Dodgers",
+      "commence": "2026-10-06T22:00:00Z"
     },
     {
-      "home": "Los Angeles Dodgers",
-      "away": "Atlanta Braves",
-      "commence": "2026-10-05T00:00:00Z"
+      "home": "San Diego Padres",
+      "away": "Milwaukee Brewers",
+      "commence": "2026-10-07T01:30:00Z"
     },
     {
-      "home": "Cleveland Guardians",
-      "away": "Chicago White Sox",
-      "commence": "2026-10-05T21:10:00Z"
+      "home": "Chicago White Sox",
+      "away": "Cleveland Guardians",
+      "commence": "2026-10-07T20:00:00Z"
     },
     {
-      "home": "Tampa Bay Rays",
-      "away": "New York Yankees",
-      "commence": "2026-10-06T00:00:00Z"
+      "home": "New York Yankees",
+      "away": "Tampa Bay Rays",
+      "commence": "2026-10-08T00:00:00Z"
     }
   ]
 }

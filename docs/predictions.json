@@ -1,15 +1,5 @@
 {
-  "updated": "2026-10-08T17:47:09.771530Z",
-  "games": [
-    {
-      "home": "Chicago White Sox",
-      "away": "Cleveland Guardians",
-      "commence": "2026-10-09T00:00:00Z"
-    },
-    {
-      "home": "Milwaukee Brewers",
-      "away": "Los Angeles Dodgers",
-      "commence": "2026-10-12T00:00:00Z"
-    }
-  ]
+  "updated": "2026-10-09T17:22:56.300218Z",
+  "games": [],
+  "error": "unhashable type: 'slice'"
 }
